@@ -1,4 +1,4 @@
-export const SITE_URL = "https://cronnest.app";
+export const SITE_URL = "https://cronnest.darthcassan.com";
 export const SITE_NAME = "Cronnest";
 export const SITE_DESCRIPTION =
   "Free multi-flavor cron expression explainer. Paste a cron to get plain English, next run times, and convert between Unix, Quartz, GitHub Actions, and Kubernetes CronJob formats.";
